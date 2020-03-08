@@ -1,0 +1,16 @@
+.navbar-light .navbar-brand{
+    color:blue;
+}
+
+.navbar-toggler:focus{
+outline: none;
+}
+.navbar-toggler-icon{
+    color:#FFF;
+}
+
+@media(max-width:768px){
+    ul{
+margin-left: 200pxpx;    
+    }
+}
